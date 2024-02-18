@@ -1,0 +1,10 @@
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\bin\Debug\File_Renamer.exe.config
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\bin\Debug\File_Renamer.exe
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\bin\Debug\File_Renamer.pdb
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.Form1.resources
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.Properties.Resources.resources
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.csproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.exe
+C:\Users\Berkay\Desktop\SimpleProjects\File_Renamer\File_Renamer\obj\Debug\File_Renamer.pdb
